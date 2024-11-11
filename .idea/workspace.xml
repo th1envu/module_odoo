@@ -4,92 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37f1192a-d2ac-4e1a-bbe5-09a23e7226a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/odoo/addons/count_loss/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/count_loss/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/count_loss/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/count_loss/models/county.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/count_loss/models/invoicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/count_loss/models/payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/README.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/controllers/login_as_any_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/doc/RELEASE_NOTES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/models/res_groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/security/ir.model.access.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/session.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/capture (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/cogs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/consultation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/ecom-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/education-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/hotel-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/license.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/lifebuoy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/manufacturing-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/photo-capture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/pos-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/puzzle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/restaurant-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/service-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/trading-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/training.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/update.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/icons/wrench.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/Cybrosys R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/star (1) 2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/support (1) 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/support-email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/tick-mark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/whatsapp 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/misc/whatsapp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/modules/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/modules/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/modules/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/modules/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/modules/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/modules/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/screenshots/hero.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/screenshots/scrnshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/screenshots/scrnshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/assets/screenshots/scrnshot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/description/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/src/js/systray_button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/static/src/xml/systray_button_templates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/wizards/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/wizards/user_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/login_as_any_user/wizards/user_selection_views.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/sale_auto_purchase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/sale_auto_purchase/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/sale_auto_purchase/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/sale_auto_purchase/models/purchase_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/sale_auto_purchase/models/sale_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/data/ir.model.access.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/models/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/models/school.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/models/scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/models/students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/views/class.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/views/menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/views/school.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/views/score.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odoo/addons/scores_exam/views/student.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="37f1192a-d2ac-4e1a-bbe5-09a23e7226a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,15 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.bin.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;17.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thien vu/PycharmProjects/scores4/odoo/addons&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bin.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/thien vu/PycharmProjects/scores4/odoo/addons",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\thien vu\PycharmProjects\scores4\odoo\addons" />
